@@ -102,6 +102,8 @@ Host: %s
 ```
 - **Purpose**: Device tracking or registration.
 
+- I have created a **backed server** to handle and track requests from that api [**api.cloud.tenda.com.cn**](https://github.com/mrxehmad/api.cloud.tenda.com.cn)
+
 #### `./bin/httpd`
 Handles web requests, possibly fetching advertisements:
 ```
