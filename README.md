@@ -1,6 +1,8 @@
-Below is a professionally rewritten version of your README tailored for GitHub, incorporating the details you provided about the Tenda AC9 firmware (`US_AC9V1.0BR_V15.03.05.15_multi_TDE01.bin`). It includes instructions for extracting the firmware with `binwalk`, organizes your findings (Nmap scan, hardcoded IPs, suspicious strings, etc.), and adds explanations where requested (e.g., for `/bin/httpd`). This version is structured, concise, and suitable for a public repository.
+<div align="right">
+  <a href="README.md">English (EN)</a> | 
+  <a href="README-cn.md">中文 (CN)</a>
+</div>
 
----
 
 # Tenda AC9 Firmware Analysis
 
