@@ -13,6 +13,7 @@ This repository contains an analysis of the Tenda AC9 firmware version `US_AC9V1
 - [Tenda Backdoor Blog](https://ea.github.io/blog/2013/10/18/tenda-backdoor/)
 - [Tenda Reverse Engineering](https://github.com/latonita/tenda-reverse)
 - [**api.cloud.tenda.com.cn**](https://github.com/mrxehmad/api.cloud.tenda.com.cn)
+- [Tenda AC9 Blog](https://blog.ehmad.site/tenda-ac9-firmware-analysis/)
 
 ## Firmware Details
 ### File Type
