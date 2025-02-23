@@ -12,6 +12,7 @@
 - [Tenda AC15 固件分析](https://github.com/SC0p30N3/Tenda-AC15-Firmware-V15.03.05.18)
 - [Tenda 后门博客](https://ea.github.io/blog/2013/10/18/tenda-backdoor/)
 - [Tenda 逆向工程](https://github.com/latonita/tenda-reverse)
+- [**api.cloud.tenda.com.cn**](https://github.com/mrxehmad/api.cloud.tenda.com.cn)
 
 ## 固件详情
 
