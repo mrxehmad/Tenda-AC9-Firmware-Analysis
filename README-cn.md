@@ -1,10 +1,8 @@
-```markdown
+
 <div align="right">
   <a href="README.md">English (EN)</a> | 
   <a href="README-cn.md">中文 (CN)</a>
 </div>
-
----
 
 # Tenda AC9 固件分析
 
