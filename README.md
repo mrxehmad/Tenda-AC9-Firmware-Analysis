@@ -6,7 +6,7 @@
 
 # Tenda AC9 Firmware Analysis
 
-This repository contains an analysis of the Tenda AC9 firmware version `US_AC9V1.0BR_V15.03.05.15_multi_TDE01.bin`. The goal is to explore its structure, network behavior, and potential security concerns, including hardcoded IPs, domains, and open ports.
+This repository contains an analysis of the Tenda ac9 v1.0 firmware v15.03.05.15 `US_AC9V1.0BR_V15.03.05.15_multi_TDE01.bin`. The goal is to explore its structure, network behavior, and potential security concerns, including hardcoded IPs, domains, and open ports.
 
 ## Related Resources
 - [Tenda AC15 Firmware Analysis](https://github.com/SC0p30N3/Tenda-AC15-Firmware-V15.03.05.18)
